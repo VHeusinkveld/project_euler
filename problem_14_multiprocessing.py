@@ -51,3 +51,5 @@ if __name__ ==  '__main__':
     results.sort()
     print(f'Loop depth, number: {results[-1]}')
     print(f'time = {time()-start}')
+    
+    # 2.5 s on 2 cores
