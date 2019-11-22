@@ -1,7 +1,5 @@
 # Project Euler
-Solutions coded by me. Mostly in python but there is some matlab and C++. The repo is made public for my personal convinience and possibly for some people to learn from my implementations. 
-
-www.projecteuler.net
+Solutions to [project euler](www.projecteuler.net) coded by me. Mostly in python (+cython) but there is some matlab and C++. The repo is made public for my personal convenience and possibly for some people to learn from my implementations. The goal is to have solutions that solve problems in seconds, however faster is better. 
 
 Log:
 * 000 - 010: combination of python and matlab. Old solutions.
@@ -9,3 +7,4 @@ Log:
 * 012: cython, C++ 
 * 013: python 2x
 * 014: python 2x, cython, python multithreaded
+* 016: python
