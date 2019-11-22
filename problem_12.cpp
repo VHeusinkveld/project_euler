@@ -2,6 +2,8 @@
 #include <cmath>
 #include <chrono>
 
+// For an explanation of the problem see the jupyter notebook.
+
 int count_divisors(const int &n) {
     size_t maxval = sqrt(n) + 1;
     size_t count = 0;
