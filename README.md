@@ -2,7 +2,7 @@
 Solutions to [project euler](http://www.projecteuler.net) coded by me. Mostly in python (+cython) but there is some matlab and C++. The repo is made public for my personal convenience and possibly for some people to learn from my implementations. The goal is to have solutions that solve problems in seconds, however faster is better. 
 
 Log:
-<rep>
+
 * 000 - 010: combination of python and matlab. Old solutions, not recommended.
 * 011      : python, cython
 * 012      : cython, C++ 
@@ -11,4 +11,3 @@ Log:
 * 015-022  : python
 
 * 067      : ptyhon
-</rep>
