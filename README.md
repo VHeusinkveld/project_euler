@@ -3,11 +3,13 @@ Solutions to [project euler](http://www.projecteuler.net) coded by me. Mostly in
 
 Log:
 
-* 000 - 010: combination of python and matlab. Old solutions, not recommended.
-* 011      : python, cython
-* 012      : cython, C++ 
-* 013      : python 2x
-* 014      : python 2x, cython, python multithreaded
-* 015-023  : python
+* 000 - 010 : combination of python and matlab. Old solutions, not recommended.
+* 011       : python, cython
+* 012       : cython, C++ 
+* 013       : python 2x
+* 014       : python 2x, cython, python multithreaded
+* 015 - 023 : python
 
-* 067      : ptyhon
+* 025       : python
+
+* 067       : python
